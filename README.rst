@@ -1,22 +1,9 @@
-BrachioGraph - the cheapest, simplest possible pen-plotter
-==========================================================
+Der einfachste Plotter der Welt
+===============================
 
-`BrachioGraph <https://www.brachiograph.art/>`_ is an ultra-cheap (total cost of materials: ~€14) plotter that can be built with minimal skills.
-
-At its heart is a Raspberry Pi Zero and some relatively simple custom software, driving three servo motors.
-
-The mechanical hardware can be built from nothing but two sticks, a pen or pencil and some glue. No tools are required.
-
-Almost everything required can be found in a desk or kitchen drawer. The entire device can be built with no special skills in about an hour.
-
-
-.. image:: docs/images/readme_combined_image.png
+.. image:: docs/images/titel_plotter.jpg
     :width: 100%
 
-`BrachioGraph can be found on Twitter <https://twitter.com/BrachioGraph>`_.
+Ein Raspberry Pi, drei Servos, zwei Eisstiele, eine Wäscheklammer, ein paar Kabel, Heißkleber und eine Stunde Zeit – mehr braucht es nicht für den Bau eines BrachioGraphen, der simpelsten denkbaren Zeichenmaschine. 
 
-
-Documentation
--------------
-
-`Complete documentation for the project, with detailed instructions on how to build and use it <https://www.brachiograph.art/>`_
+Wir haben das originale GitHub-Repository von Daniele Procida hier geklont, damit die Beispielkonfiguration und unser Tesla-Bild gleich mit auf den eigenen Raspi wandert. Mehr zum Projekt und Links zur originalen Dokumentation gibt es in unserem Online-Artikel zum `BrachioGraphen <https://heise.de/-4653323/>`_. Die Bauanleitung haben wir in Make 1/20 ab Seite 8 abgedruckt. 
